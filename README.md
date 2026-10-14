@@ -18,5 +18,5 @@
 
 ## Установка
 ```bash
-curl -sSL https://githubusercontent.com | bash
+curl -sSL https://raw.githubusercontent.com/K-ovac/linux-mint-apps/main/install.sh | bash
 ```
